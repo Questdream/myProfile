@@ -1,2 +1,2 @@
-# myProfile
-个人网站
+# LiuxuxingのResume
+个人简历网站
